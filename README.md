@@ -2,6 +2,13 @@
 WASP Deep Learning for Natural Language Processing
 
 
+## Structure
+Assignments 1 and 2 are both in **assignments/assignment-1-2.ipynb**.
+Assignments 3 and 4 are in **assignments/a3-fine-tuning-language-models** and **assignments/a4-retrieval-augmented-generation**, respectively.
+
+
+
+## Statements
 I did not submit any of the assignments for **feedback** or present during the previous oral exam slots because I was on a research visit at Imperial College.
 
 
